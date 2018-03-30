@@ -13,6 +13,7 @@
 		50B31F1A206DB34C00F2B04B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50B31F19206DB34C00F2B04B /* Assets.xcassets */; };
 		50B31F1D206DB34C00F2B04B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50B31F1B206DB34C00F2B04B /* LaunchScreen.storyboard */; };
 		50FDC92C206DC21800E14DA4 /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50FDC92B206DC21800E14DA4 /* ItemCell.swift */; };
+		50FDC92E206DC8F800E14DA4 /* Models.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 50FDC92D206DC8F700E14DA4 /* Models.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		50B31F1C206DB34C00F2B04B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		50B31F1E206DB34C00F2B04B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		50FDC92B206DC21800E14DA4 /* ItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
+		50FDC92D206DC8F700E14DA4 /* Models.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; name = Models.scnassets; path = ../../../../Downloads/Models.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		50B31F11206DB34C00F2B04B /* IkeaMockApp */ = {
 			isa = PBXGroup;
 			children = (
+				50FDC92D206DC8F700E14DA4 /* Models.scnassets */,
 				50B31F12206DB34C00F2B04B /* AppDelegate.swift */,
 				50B31F14206DB34C00F2B04B /* ViewController.swift */,
 				50B31F16206DB34C00F2B04B /* Main.storyboard */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50B31F1D206DB34C00F2B04B /* LaunchScreen.storyboard in Resources */,
+				50FDC92E206DC8F800E14DA4 /* Models.scnassets in Resources */,
 				50B31F1A206DB34C00F2B04B /* Assets.xcassets in Resources */,
 				50B31F18206DB34C00F2B04B /* Main.storyboard in Resources */,
 			);
